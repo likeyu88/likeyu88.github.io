@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2024/08/03/%E6%96%B0%E7%9A%84/"/>
+      <url>/2024/08/03/%E6%96%B0%E7%9A%84/</url>
+      
+        <content type="html"><![CDATA[<p>科学上网方式有两种，一种是获取机场的节点然后配合V2rayN，Clash，小火箭等第三方软件来实现科学上网。卖节点的网站就是我们俗称的机场。第二种是直接使用vpn软件，这类软件已经内置节点，可以实现一键上网，但附加功能比较少，不能导入自己的节点，可以理解为套壳了内置的机场节点协议的小程序，然后起个名 “XX VPN”或者“XX加速器”。 市面上机场和VPN软件没有几万种也有几千种，有收费的也有免费的。这里只讨论如何免费实现科学上网。</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第二篇博文</title>
       <link href="/2024/08/02/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/"/>
       <url>/2024/08/02/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</url>
