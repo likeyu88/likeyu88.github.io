@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>vpn教程</title>
-      <link href="/2024/08/03/%E6%96%B0%E7%9A%84/"/>
-      <url>/2024/08/03/%E6%96%B0%E7%9A%84/</url>
-      
-        <content type="html"><![CDATA[<p>科学上网方式有两种，一种是获取机场的节点然后配合V2rayN，Clash，小火箭等第三方软件来实现科学上网。卖节点的网站就是我们俗称的机场。第二种是直接使用vpn软件，这类软件已经内置节点，可以实现一键上网，但附加功能比较少，不能导入自己的节点，可以理解为套壳了内置的机场节点协议的小程序，然后起个名 “XX VPN”或者“XX加速器”。 市面上机场和VPN软件没有几万种也有几千种，有收费的也有免费的。这里只讨论如何免费实现科学上网。</p><div class="video-container">[https://drive.google.com/file/d/1zE4GiCV7iMyuhZc95KOa5CV6Fq8TSjSr/view?usp=sharing]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>第二篇博文</title>
       <link href="/2024/08/02/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/"/>
       <url>/2024/08/02/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</url>
@@ -54,6 +41,19 @@
       <url>/2024/08/02/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>vpn教程</title>
+      <link href="/2024/05/03/%E6%96%B0%E7%9A%84/"/>
+      <url>/2024/05/03/%E6%96%B0%E7%9A%84/</url>
+      
+        <content type="html"><![CDATA[<p>科学上网方式有两种，一种是获取机场的节点然后配合V2rayN，Clash，小火箭等第三方软件来实现科学上网。卖节点的网站就是我们俗称的机场。第二种是直接使用vpn软件，这类软件已经内置节点，可以实现一键上网，但附加功能比较少，不能导入自己的节点，可以理解为套壳了内置的机场节点协议的小程序，然后起个名 “XX VPN”或者“XX加速器”。 市面上机场和VPN软件没有几万种也有几千种，有收费的也有免费的。这里只讨论如何免费实现科学上网。</p><div class="video-container">[https://drive.google.com/file/d/1zE4GiCV7iMyuhZc95KOa5CV6Fq8TSjSr/view?usp=sharing]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
