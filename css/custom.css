@@ -1,20 +1,24 @@
+/* 页头和页脚背景透明 */
 #page-header {
     background: transparent !important;
-  }
+}
+
 #footer {
     background: transparent !important;
-  }
+}
+
 /* 文章页面正文背景 */
 div#post {
-    background: rgba(0, 255, 0, 0.5);
-  }
-  body {
-    background-image: url('https://46e7f862.telegraph-image-c9i.pages.dev/file/c77ea73cd22af6e4f6a75.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-  }
-  /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+    background: rgba(0, 255, 0, 0.5) !important;
+}
+
+/* 整体页面背景图片和颜色 */
+body {
+    background: url('https://your-image-hosting.com/path/to/your/image.jpg') no-repeat center center fixed !important;
+    background-size: cover !important;
+}
+
+/* 移除top-img黑色透明玻璃效果 */
 #page-header:not(.not-top-img):before {
     background-color: transparent !important;
-  }
+}
