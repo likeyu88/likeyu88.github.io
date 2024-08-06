@@ -1441,7 +1441,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 14px;
+  --global-font-size: 16px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -1511,7 +1511,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://46e7f862.telegraph-image-c9i.pages.dev/file/c984575aa5ebab4a0407f.jpg);
+  background: url(https://46e7f862.telegraph-image-c9i.pages.dev/file/f79073359e27abf536d12.png);
   background-attachment: local;
   background-position: center;
   background-size: cover;
@@ -1586,6 +1586,13 @@ a {
 }
 a:hover {
   color: #49b1f5;
+}
+#site-title,
+#site-subtitle,
+.site-name,
+#aside-content .author-info__name,
+#aside-content .author-info__description {
+  font-family: Open Sans;
 }
 .is-center {
   text-align: center;
