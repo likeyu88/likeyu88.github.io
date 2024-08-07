@@ -19,45 +19,33 @@ div#post {
 #card_author {
     background-color: yellow;
   }
-/* 评论输入框 */
-.ValineEditor {
-    border: 1px solid #af1111;
-    padding: 10px;
-    font-size: 16px;
+/* 文章页H1-H6图标样式效果 */
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  -webkit-animation: ccc 1.6s linear infinite;
+  animation: ccc 1.6s linear infinite;
+}
+@-webkit-keyframes ccc {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
   }
-  
-  /* 评论列表整体 */
-.Valine-comment-list {
-    padding: 15px;
+  to {
+    -webkit-transform: rotate(-1turn);
+    transform: rotate(-1turn);
   }
-  
-  /* 每条评论 */
-  .Valine-comment {
-    border: 1px solid #ddd;
-    padding: 15px;
-    margin-bottom: 15px;
+}
+@keyframes ccc {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
   }
-  
-  /* 评论者头像 */
-  .Valine-comment.vimg {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
+  to {
+    -webkit-transform: rotate(-1turn);
+    transform: rotate(-1turn);
   }
-  
-  /* 评论者姓名 */
-  .Valine-comment.vnickname {
-    font-weight: bold;
-  }
-  
-  /* 评论内容 */
-  .Valine-comment.vcontent {
-    font-size: 14px;
-    line-height: 1.5;
-  }
-  
-  /* 回复按钮 */
-.Valine-comment.vreplies {
-    color: #d32b5b;
-    cursor: pointer;
-  }  
+}
